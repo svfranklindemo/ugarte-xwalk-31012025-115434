@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/ugarte/ugarte-2025-1-31-12-53-54/:/
+ - /content/ugarte/ugarte-2025-1-31-12-53-54/metadata.json:/metadata.json
+ - /content/ugarte/ugarte-2025-1-31-12-53-54/redirects.json:/redirects.json
